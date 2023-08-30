@@ -1,288 +1,288 @@
 [[libcifpp]]
 arch = "aarch64"
-git-tree-sha1 = "4206bca29ad889bcd203767e9503ba39cd265645"
+git-tree-sha1 = "327bb0a109ffb36198eba3b0db9ecc1d06705ed0"
 os = "macos"
 
     [[libcifpp.download]]
-    sha256 = "f80dc345621ac986511988a7e8c18a8552432f3bba706636ce5f68ffb514b230"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "37e34a998c359ab34ef96dd711321ce498839a14aa62de29fc17eece61ab6c1e"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.aarch64-apple-darwin.tar.gz"
 [[libcifpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bec3119e37e35a6586292b86f92a025a47e88a37"
+git-tree-sha1 = "474fab3c79aaf3829482af1253ef3b35b3ffef9d"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "b224fc4e80242fab5eac86c86e71231310469902e9a88d002602991c409414f9"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "13a9ddab2a3fd0f445a3eff37b2387fc1ce0cab90bd9a50164011b254c3917bb"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[libcifpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4071d76c6ec6313d69a2ff5f22fdb70a4f697277"
+git-tree-sha1 = "9365a9c14aae5879a9bf4be76793c4635c2c5644"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "70aa97f0a857dc7e79651726d9bbe5d22f1772f9f18d2bda26d612a02ed7bcfb"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a995db3fe28688293d1a0989c2474241e1434f76386afdd16e3b0b873ab8f453"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[libcifpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "88991112947f432e05d11fc97d63e863cbe73be9"
+git-tree-sha1 = "8385e900d3aa0218575fc47293ed265205d45cf4"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "c9c384e1e91cc3b8b8545e8e013f13052f1a1e0e3181d7876678522d9ee6570b"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "4c49b10eb3fcd143e17f0089355f5536e87fe7c28339741753507d18cd63a424"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.aarch64-linux-musl-cxx03.tar.gz"
 [[libcifpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7b44d4ad68a7586300dae5de594ed5dfcba7f34"
+git-tree-sha1 = "7936026d4d89d1d1ca4a8c1c6be9da420cd977d6"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "62a68d868f8ca1be846fa71c531a005ad690ae423c9116e0645f80824bfa3db4"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0ba5d41d4e4b8a44e4168f1e32907b97b96bf6256d8a7893ecb95b139492d972"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.aarch64-linux-musl-cxx11.tar.gz"
 [[libcifpp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f1a283ebf6d422859a2c3a9cf393849d4b3398c"
+git-tree-sha1 = "003a493a3e312d353f6c306216f30888c8a1f5b4"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "5906396a206c84aea3857cfc76e3c77ffde1fc109c7f6c044e105e9eb17f450e"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9d506f669d911f060366061cab62aad42ac9430aa5db632d0a59ddcdf383e902"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[libcifpp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cbfdf6133e29248f60b4d8e2fee72137dc77edb7"
+git-tree-sha1 = "4074a2070b749d6a03df9bbfc7c3eca34b9fdb4b"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "eeb5ebb84c6031cb2f8e11bc0529cb732bb294ed565950bde1334a7723c93a05"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "abb57988548d75dc62ace98cdcdd056ad7d9a157012b4e7e45b077ffb5bf7262"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libcifpp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "66f176fa8611e3923ec0597675b545727593eb84"
+git-tree-sha1 = "9256b692a3cb801db508c02745cff4f8c2425ea2"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "f9220a17444d4f5e04ec83d814eba158366cb3c85d1062f416649e31c36ae279"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "0db1247d761e5a6e56237a55cee06acf0c2135f3a9491346e96b5b88ec38ffb8"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[libcifpp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4cb2843b791de5305cea8ad2851dd22fdab5df51"
+git-tree-sha1 = "c96d019efcd1e048cef2e7381e5d4706a553be40"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "93f86e38bc92d6035c4132ff212acbcb9c534541eb1c1a6e868b7fcbc2463ded"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "629285fffbbd77928cfc302f0bcacb00ba1aac57d7e7c00665514ac9f4ca8d4f"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libcifpp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "54f1ea7efffa7004851eff9d9af806d0051139ff"
+git-tree-sha1 = "b847311008c7c3a289bdfe93e15e86826512681a"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "5226a3e4eaac3ae8dfb1ad42bba0abc06262ec0185411cfb38edec68fb6509a2"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "2f2ad0fc3a1543a1b77ce4642675a7e67307a6fe740d49ee215fe78327201915"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[libcifpp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d549d5a1678d18689f32baa185eaecef0c655e75"
+git-tree-sha1 = "b59e947048fb7e2cb3f12b7206aeb3d9c2011f3d"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "14e10d705e4aa752dfd7636a60c5f15c9ca56fe615946888932a99f765b5651f"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "2c92b3be8a1d1f498b84704774be582acf847e5e0998cc4d7dfb0722a3bed759"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libcifpp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "013f83fa17861d4658685eb9e3556d4b2404634b"
+git-tree-sha1 = "a13bc847c4becc58da6318945ba348a70848cec8"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "ec98e279e7844e9d2cc08df8ce5ee5545de25c01f03db11731a2a11bb8f121db"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "cbb7d246769a30dce9d2cc1d9833e31d5b2e740bc4d051201686bebcacbca35d"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[libcifpp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb7096f43dba288363d2fcc8f51eb2f25e24d0ad"
+git-tree-sha1 = "74cdde67761ddab8443b6a025d0b9ffce326449c"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "42c7641d6eb4d334fd765dc630d0ef13cfc2665e1cbe239a4e56cbc297033838"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4109cdc123b71204156d47088613096b044c9ec373cd98d75098e7e6dd98ab28"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libcifpp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96408279b884bc4f93be3d94ee31e33d083960e5"
+git-tree-sha1 = "2435bf3b92501de26155c09dbbbe149da97badf0"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "e74591422682f3daca76b6cf4a1641705a0cc906e3e3c8df1823f42a8ed648f0"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "723b283e90b8f29394e541ea720d9259c3d9c2f4cec26a88658825e391cbb79e"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.i686-linux-gnu-cxx03.tar.gz"
 [[libcifpp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50201c44367f1947b586e688927e81c0840ac438"
+git-tree-sha1 = "37a9536b8e4fe8744f32ae0768da80e3ab5162b8"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "0a8c14968b9c4147ae963dd09d54c8d28da0db787f4b61b15e810cd2a2fd9ea2"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "f12cae0418a9cf23bf0d6cd2aa174c336412af11bf9a0f43c7d2eb8aeb73421f"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.i686-linux-gnu-cxx11.tar.gz"
 [[libcifpp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95521864e72571dafe5dbc5463b3a2815b2d6a83"
+git-tree-sha1 = "15e8f42356856b895279e8f49d45c2e1f6c34d72"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "337382c43014e986d6c5affa00c8b5c63ff34727bfb2081031fd5b16217d3d4d"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "707ef8a6e7705b5fba98ee895d82742f733832471a744288553abfeaaa743799"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.i686-linux-musl-cxx03.tar.gz"
 [[libcifpp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "08a0a8287b18474e807ee6ebd4cd3f4b5ae6452a"
+git-tree-sha1 = "11e83f79d485321a4be5909ac7cb5c6b2fcd7e5b"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "56a0c72e1d8cc0c11b96dcb490eebb244f50490e43acb418a55043e645707eca"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "859107a6f0f587ebcfd9a8654c0d7a14eefa096811f6b86229e9496c4f021277"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.i686-linux-musl-cxx11.tar.gz"
 [[libcifpp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab2a4e5204ba9d80c8625e960b9e3da8424ebf13"
+git-tree-sha1 = "76617da3dd203d461e164834b0681a2d87b51130"
 os = "windows"
 
     [[libcifpp.download]]
-    sha256 = "7ed8dc4f8dc19821bc08018e479f743c817753f553def43b77c139170a706202"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "2c6d5fa7134b0291e387897e798679914c927bde38a7c6b1492913112ef467c4"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.i686-w64-mingw32-cxx03.tar.gz"
 [[libcifpp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f487cda90cb1a956a08a5117ac7b450f66f149ce"
+git-tree-sha1 = "a39110f638f6bdb5ef4397de9f1f5b2fc0f75990"
 os = "windows"
 
     [[libcifpp.download]]
-    sha256 = "d8bd4c9ce2f0e017291830f34611472ce846984868139294378f056bd6139820"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "df74084d6c0c6339086d64cd3ed1cd4f93bf4a214032d9dd2a5c2a0ed0327e50"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.i686-w64-mingw32-cxx11.tar.gz"
 [[libcifpp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bfd71a15cf9eeb595915527768807ad6cc05531a"
+git-tree-sha1 = "01d4cc72e33454611e0ea117f5a47e4b801099ee"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "2dcd2cc60ecdac197b55644729a4645fa2ffd024d6e94dfffae90367b5faefc4"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "7d973400850ba6bbfd1282c9f9e6bfebc47a41ce14d6e6b3db719e66c55572ac"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[libcifpp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c478e916cbacf2cdb7cb6fa203d00d5ca6cac0b"
+git-tree-sha1 = "89e09e635ef045bfa46d1af0272ea5c24893e8bd"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "2f61dd824984a89ec18dbfa7afdfaa30596a752552b169f5cd9f6cc09fbdb42c"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "cd753493da9afdfc7e1450ede16d312dbfe8c5ef79557149672f87d00817bad7"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
-git-tree-sha1 = "c7895ae98e84e63ccad969cda6ac0f925eff3140"
+git-tree-sha1 = "04a2f93ca5634da8fb095aa098696a3c326a4f97"
 os = "macos"
 
     [[libcifpp.download]]
-    sha256 = "f74596663ece1f099c94677b3ce0ef65266a6a854b7e22fb39f5958e9af87be0"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "00d5f83365c9e9592d622d6c2e5f21abfc36e43c5af9f7148b3a15d927d9661b"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-apple-darwin.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d1e0e40f064b03ed6d3d4c314fc4439e21ce64f6"
+git-tree-sha1 = "6c5113f6d33d995fbe9c86b18f3af2241e834070"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "199746bd41d090d59a480c89af7596dba365e47409633a46e97ee398f56b0e12"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "effaaa0f1842eb35e74762d8bf9d08e46230a467c93577615de19ddce143f729"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3c9987d4205120d9fa4a924a65c9d75cd728e37"
+git-tree-sha1 = "e61b317f2626b05990a2e3a76a8d051ef23e2a04"
 libc = "glibc"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "e3a8a96a366dd01e5111e7b18b414f1a00abb30a26c861b1d54fe133fc196ef2"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fcafe0e8572d9b866acf451fb10c3598bd11b6871ee4598d5804a9a8cd49978b"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a8f701c1ebcd39bf76bbd8261966826fac71309"
+git-tree-sha1 = "81c87ccc03a1bf08b848efa1eac30323ae1df9e7"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "ffd37bb5e2c98d93a19937386f7086f1c6a81f4d5a2007e6d8142023cc7c9023"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "2740e044ca1429ff830987572d6021a2abfcb4553169e656ebcd76a661c440c2"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-linux-musl-cxx03.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4efc81c2868a1fcf69f0850baa3fc2653bfa483e"
+git-tree-sha1 = "33c76f891d6931635c93b66bbc40446bfe297b2a"
 libc = "musl"
 os = "linux"
 
     [[libcifpp.download]]
-    sha256 = "f45e55ab2ccba8c4bf70a41446ea5f78f924129a1c97c8b2924a47bc124d0efc"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "5ddee2f700d29c4f4f57e205ce9858efcb5695afefce2f1fbdf8590ce0cfda32"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-linux-musl-cxx11.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
-git-tree-sha1 = "fa1e9ee890a4aed3ad5d709f454aaba748ee79b0"
+git-tree-sha1 = "e193de3eedc02faa868b0f98104947193d1631c9"
 os = "freebsd"
 
     [[libcifpp.download]]
-    sha256 = "416a9c2412e13b43a366fd8cdc7bd4496a7bbb7937d7a7106c0089bd3263e1b6"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cbbb102bbfef8f3290e5909bf82d555bbfce4b6d4f45f7c1504c4a253ed6638f"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-unknown-freebsd.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b8706c579af848f272352ac3a14db594effc8643"
+git-tree-sha1 = "20c21f5dd06fa3aeab0a43355c34f7e758ae4d16"
 os = "windows"
 
     [[libcifpp.download]]
-    sha256 = "af4ba6f70892dabbddd9b29e5e33c3ff9ccd00bbd015370eb76daa50ea5cddbd"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a3af35fdad38a6f700ca77cd9cb6e07e2a9789f62d1acb4d1814c5a2cce1c647"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[libcifpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2bbf80bcdb157ca8addada33668a9cee98dad742"
+git-tree-sha1 = "4cec2a92b950a359d3632657526c122a425dca98"
 os = "windows"
 
     [[libcifpp.download]]
-    sha256 = "a91eeb5de62505b8cd793c2150415943ae2d9478c1c861c3fbc3891cf6d328f9"
-    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.0+0/libcifpp.v5.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a257954adeee7c80a9e4e146193e09afc575e12b0cdad9b991084a320ef2cc09"
+    url = "https://github.com/JuliaBinaryWrappers/libcifpp_jll.jl/releases/download/libcifpp-v5.1.1+0/libcifpp.v5.1.1.x86_64-w64-mingw32-cxx11.tar.gz"

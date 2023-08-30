@@ -1,6 +1,6 @@
 name = "libcifpp_jll"
 uuid = "1901280f-61ce-5048-a6a8-fd033512e07b"
-version = "5.1.0+0"
+version = "5.1.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
